@@ -1,3 +1,9 @@
+/* The following sql script is to create the required tables for the Database. Before
+   creating the tables, make sure to create a new schema named: csc335
+*/
+
+CREATE SCHEMA IF NOT EXISTS csc335;
+
 use csc335;
 
 CREATE TABLE `accounts` (
