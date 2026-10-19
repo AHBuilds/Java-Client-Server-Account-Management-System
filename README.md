@@ -36,7 +36,7 @@ Before implementation, the team produced a full set of design artifacts.
 
 | Document | Purpose |
 |---|---|
-| [Use Case Diagram](diagrams/Use%20Case%20Diagram%20Client-Server-System.pdf) | Actors and system interactions for client and server |
+| [Use Case Diagram](Use Case Diagram) | Actors and system interactions for client and server |
 | [Class Diagram](diagrams/Class%20Diagram.pdf) | Planned classes and their relationships |
 | [Sequence Diagrams](diagrams/Sequence%20Diagrams.pdf) | Message flow for each use case |
 | [State Machine Diagram](diagrams/State%20Machine%20Diagram.pdf) | The client experience from launch to shutdown |
