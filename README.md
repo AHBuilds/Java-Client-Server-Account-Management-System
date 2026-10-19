@@ -67,7 +67,7 @@ The biggest change is architectural. The original design was a three-tier client
 
 ## Testing
 
-A full [test plan](docs/Test%20Plan%20Document.pdf) covering connection, registration, login, lockout, recovery, password change, and shutdown was written during the design phase using a grey-box, bottom-up integration approach. It was not formally executed before the course ended.
+A full test plan covering connection, registration, login, lockout, recovery, password change, and shutdown was written during the design phase using a grey-box, bottom-up integration approach. It was not formally executed before the course ended.
 
 While setting the project up again, after the course, multiple additional tests were conducted against the original test plans, and updated test plans, which resulted in the following bugs listed below.
 
