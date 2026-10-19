@@ -37,11 +37,11 @@ Before implementation, the team produced a full set of design artifacts.
 | Document | Purpose |
 |---|---|
 | Use Case Diagram | Actors and system interactions for client and server |
-| [Class Diagram](diagrams/Class%20Diagram.pdf) | Planned classes and their relationships |
-| [Sequence Diagrams](diagrams/Sequence%20Diagrams.pdf) | Message flow for each use case |
-| [State Machine Diagram](diagrams/State%20Machine%20Diagram.pdf) | The client experience from launch to shutdown |
-| [Test Plan](docs/Test%20Plan%20Document.pdf) | Functional and integration test cases derived from user stories |
-| [Summary Document](docs/Summary%20Document.pdf) | Project overview and outcomes |
+| Class Diagram | Planned classes and their relationships |
+| Sequence Diagrams | Message flow for each use case |
+| State Machine Diagram | The client experience from launch to shutdown |
+| Test Plan | Functional and integration test cases derived from user stories |
+| Summary Document | Project overview and outcomes |
 
 ---
 
